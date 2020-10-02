@@ -5,7 +5,6 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 - [About Manager](#about-manager)
 - [Career development](#career-development)
 - [Job satisfaction](#job-satisfaction)
-- [Other](#other)
 - [Team and company](#team-and-company)
 - [Work-life](#work-life)
 
@@ -49,17 +48,6 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What’s the best part of your job?
 * What’s the worst part about your job?
 * When was the time you enjoyed working here the most?
-
-## Other
-* As a kid, what did you want to be when you grew up?
-* How are things going for you outside of work?
-* If you had millions of dollars, what would you do every day?
-* What did you do for fun in the past that you haven’t had as much time for lately?
-* What haven’t you tried yet?
-* What ideas can you bring in from past successes?
-* What questions do you have about the project?
-* What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
-* What’s one thing we could change about work for you that would improve your personal life?
 
 ## Team and company
 * Are there any aspects of our culture you wish you could change?
