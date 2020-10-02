@@ -4,7 +4,6 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 ## Table of Contents
 - [About Manager](#about-manager)
 - [Career development](#career-development)
-- [Conversation starters](#conversation-starters)
 - [Job satisfaction](#job-satisfaction)
 - [Other](#other)
 - [Team and company](#team-and-company)
@@ -34,34 +33,6 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What skills would you like to develop right now?
 * What would make this your perfect job?
 * Which part of the work here do you feel as most relevant to your long-term goals? What kinds of projects do you want to take part in to move toward your goals?
-
-## Conversation starters
-* Are you on track to meet the deadline?
-* Hey, what’s going on?
-* How are you? How is life outside of work?
-* How are your parents/grandparents? Where do they live? Do you visit them?
-* How is your family?
-* How was your weekend?
-* How’s it going?
-* If around a holiday: Do you celebrate [Holiday]? If so, can I ask what are you plans?
-* If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)
-* I’ve noticed you’re a little quieter than usual. Is there anything you’d like to talk about?
-* So, what’s on your mind? (or Anything on your mind?)
-* Tell me a story...
-* Tell me about anything you stumbled over.
-* Tell me about last week.
-* Tell me about what you’ve been working on.
-* Tell me about your family/weekend/ activities?
-* Tell me about your week – what’s it been like?
-* What can I do to make your day better?
-* What do you like to do in your free time? What are your hobbies?
-* What have you been doing for fun lately?
-* What would you like to focus on at this meeting?
-* What would you like to start with?
-* What's something I don't know, but should?
-* Who do you really admire? Why? (People often admire those they want to become)
-* Would you like to walk today, or go somewhere else outside the office?
-* Would you update me on Project X?
 
 ## Job satisfaction
 * Are you happy here? What makes you say that?
